@@ -1,9 +1,15 @@
 # MKalamod
 Useful mods for the leatest minecraft version
+## How to install?
+[Use our official automatic installer](https://github.com/KEVINIIE123/MKalamod-installer)
 
-Report bugs on the MKalamod discord server: https://discord.gg/dkJDcMDz6T
+[Use a third party installer: velend (made with java)](https://github.com/eetnaviation/velend)
 
-# Credits
+
+
+Join our discord: https://discord.gg/dkJDcMDz6T
+
+## Credits
 |Mod                                                        |License
 |-----------------------------------------------------------|------------------------------|
 |[Trouser-Streak](https://github.com/etianl/Trouser-Streak)|No License|
